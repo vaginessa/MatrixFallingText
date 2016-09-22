@@ -1,0 +1,6 @@
+C:\Users\Daniel Westberg\Desktop\MatrixAnimation\MatrixAnimation\MatrixAnimation\bin\Debug\MatrixAnimation.exe.config
+C:\Users\Daniel Westberg\Desktop\MatrixAnimation\MatrixAnimation\MatrixAnimation\bin\Debug\MatrixAnimation.exe
+C:\Users\Daniel Westberg\Desktop\MatrixAnimation\MatrixAnimation\MatrixAnimation\bin\Debug\MatrixAnimation.pdb
+C:\Users\Daniel Westberg\Desktop\MatrixAnimation\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Westberg\Desktop\MatrixAnimation\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.exe
+C:\Users\Daniel Westberg\Desktop\MatrixAnimation\MatrixAnimation\MatrixAnimation\obj\Debug\MatrixAnimation.pdb
